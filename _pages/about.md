@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hola! <br/>
-My name is Anuj Sethia. I graduated from **IIT Bombay** in 2020, receiving a BTech in Mechanical Engineering with a Minor in Engineering Physics. My research interests lie in the field of **Quantum Information Theory** and its applications like **Quantum control, Quantum Cryptogrphy**. <br/>
+Hello! <br/>
+I am Anuj Sethia, an engineer by the mind who likes to solve complex problems and an experimental quantum physicist by heart who loves to tinker around fundamental properties of universe. Presently, I am pursuing my MSc in Quantum Physics at University of Calgary. I graduated from IIT Bombay in 2020, receiving a BTech in Mechanical Engineering with a Minor in Engineering Physics. I am passionate about developing quantum technologies for the next human revolution. I am particulaly interestest in quantum optics including quantum communication and photonic quantum computing. <br/>
 
-I am passionate and devoted to delve into these topics. I firmly believe that the next human revolution would be driven by Quantum Technologies and is anticipated soon. <br/>
+ <br/>
 
-Apart from Quantum, I had also actively participated in research on topics related to Mechanical Engineering like Cryogyenics, Bubble Dynamics, and Non Linear dynamics of soft materials. <br/>
-
-Keeping aside research, I love reading, traveling and listening to music (or any combination of three, XD). Some of my favorite reading topics are: Philosophy of Science, Sociology and Politics. Coming to music, I have a great fondness to 60s music mostly, Bob Dylan and The Beatles. Last but not least I have recently developed passion for skiing and would love to pursue it further. <br/>
+Keeping aside research, I love reading, traveling and listening to music (or any combination of three, XD). Some of my favorite reading topics are: Philosophy of Science, Sociology and Politics. Coming to music, I have a great fondness to Rock music from 60s and 70s. Last but not least I am a avid mountaineer and love to go for skiing and hiking on weekends. <br/>
 
 **Updates:**
-* [*Sep 2020*] Joined [QNu Labs](https://www.qnulabs.com) as a RA on the Quantum Key Distribution System
-* [*Jun 2020*] Started internship with [QNu Labs](https://www.qnulabs.com) to work on security analysis for **Differential Phase Shift QKD**
-* [*Apr 2020*] Recieved admit from **Georgia Tech** for Physics PhD starting from Fall 2020
+* [*Feb 2023*] Attended Quantum Integrated Photonics Workshop hosted at UBC, Vancouver
+* [*Aug 2022*] Presented my work at QKD Summer School organised at IQC, UWaterloo
+* [*Jul 2022*] Awarded Alberta Graduate Excellance Scholarship Award
+* [*Sep 2021*] Moved to Calgary for MSc focused on Measurement Device Independent QKD with Dr. Daniel Oblak
+* [*Jun 2020*] Joined [QNu Labs](https://www.qnulabs.com) to work on their QKD and QRNG products
 * [*Oct 2019*] [Paper](https://anujsethia.github.io/files/JEES_2019.pdf) on Subcooled Pool Boiling in JEES 2019
 * [*Mar 2019*] Awarded the Undergraduate Research Award at IIT Bombay
 * [*Dec 2018*] Presented my work on bubble dynamics at FMFP 2018 ([Paper](https://anujsethia.github.io/files/FMFP_2018.pdf))
