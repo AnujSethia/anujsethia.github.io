@@ -1,10 +1,10 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome 👋! I'm a PhD Candidate in Quantum Photonics at University of Calgary, Canada. I am deeply passionate about harnessing **Quantum Optics** and **Integrated Photonics** to help ignite the next quantum revolution and build scalable technologies that redefine how we compute, communicate, and understand the world.
 
-I'm currently working with,
+My core research and technical expertise includes:
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+- Quantum Optics
+- Quantum Communication
+- Integrated Photonics
+- Nano-fabrication
+- Quantum Computing
+- Cryogenics

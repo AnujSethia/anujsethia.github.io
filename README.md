@@ -1,9 +1,7 @@
 # Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
+This website template was forked from https://hrishikeshpaul.github.io/ under the MIT License
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
-
-💻  Live [demo](https://hpaul-v2.web.app/)
+Github: https://github.com/hrishikeshpaul/portfolio-template-v2
 
 ---
 
@@ -24,7 +22,7 @@
 Close repository
 
 ```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template-v2.git
+$ git clone https://github.com/AnujSethia/website-2025.git
 ```
 
 To install the node packages used in the project:
@@ -57,14 +55,10 @@ All the images are in `public/assets`.
 - Checkout to a new branch. Give it a relevant name!
 - Create a pull request
 
-## Connect
-
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
 
 ## License
 
 [![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+- Copyright 2022 © <a href="https://anujsethia.github.io/" target="_blank">Anuj Sethia</a>
