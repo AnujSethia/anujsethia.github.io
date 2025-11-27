@@ -1,0 +1,5 @@
+Hi 👋! I’m a mindful quantum physicist, passionate engineer, and hands-on experimentalist dedicated to advancing next-generation quantum technologies. My work centers on quantum optics, where I’ve spent more than six years building and deploying practical quantum systems. I’m a strong believer in the transformative potential of integrated photonics as a core enabler of scalable quantum devices.
+
+My research has equipped me with a broad and versatile skill set, spanning quantum optics, integrated photonics, nanofabrication, cryogenics, and RF electronics. I also enjoy communicating my work—whether to experts in the field or to the broader public—to help raise awareness and excitement around quantum technologies.
+
+Outside of the lab, I balance my technical pursuits with my love for the outdoors. I am an avid mountaineer 🏔️ and enjoy skiing ⛷️, hiking 🥾, or running 🏃 on the weekends (if my experiments let me). I have a great fondness for Rock and Alternate music from the '60s and '70s 🥁, and I enjoy exploring ideas through reading—especially in the fields of Philosophy, Sociology, and Politics 📚.
