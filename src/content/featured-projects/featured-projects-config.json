@@ -36,8 +36,10 @@
         "id": "featured-project-SiP",
         "title": "Silicon Photonics",
         "year": "Jan 2023 - Jun 2024",
+        "location": "University of Calgary, Canada",
         "tags": ["PIC", "Quantum Optics", "Lumerical", "Python"],
         "description": "Executed the full design-to-test cycle for Silicon photonics devices, demonstrating on-chip entangled photon pair generation for quantum communication.",
+        "readMore": "",
         "image": "/assets/featured-projects/SiP.webp",
         "jpg": "/assets/featured-projects/SiP.jpeg"
 
