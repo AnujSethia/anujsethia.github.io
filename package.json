@@ -1,7 +1,7 @@
 {
   "name": "portfolio-anuj-sethia",
   "version": "0.1.0",
-  "homepage": "https://anujsethia@github.io",
+  "homepage": "https://anujsethia.github.io/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "1.8.8",
