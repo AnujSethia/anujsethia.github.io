@@ -76,6 +76,11 @@
     ],
     "achievements": [
         {
+            "id": "achieve-1",
+            "title": "Selected for the Evolve to Innovate program by University of Calgary (2026)",
+            "link": ""
+        },
+        {
             "id": "achieve-2",
             "title": "MicroFAB Access Award by CMC Microsystems (2025)",
             "link": ""

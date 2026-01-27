@@ -5,7 +5,7 @@
         "year": "Jun 2024 - Mar 2026",
         "location": "University of Calgary, Canada",
         "tags": ["PIC", "Quantum Optics", "Cryogenics", "Python"],
-        "description": "Developed a cavity-enhanced quantum memory on a chip, utilizing Erbium-doped Lithium Niobate waveguides to enable the next generation of scalable quantum networks.",
+        "description": "Developed a cavity-enhanced quantum memory on a chip, utilizing Erbium-doped Thin Film Lithium Niobate for scalable quantum networks.",
         "readMore": "",
         "image": "/assets/featured-projects/ErLN_QM.webp",
         "jpg": "/assets/featured-projects/ErLN_QM.jpeg"
@@ -16,7 +16,7 @@
         "year": "Jun 2024 - Mar 2026",
         "location": "University of Alberta, Canada",
         "tags": ["Electron Beam Lithography", "Photolithography", "Reactive Ion Etching", "FDTD Simulations", "Layout Design"],
-        "description": "Pioneered the optimized nano-fabrication of low loss photonic devices on the Lithium Niobate on Insulator (LNOI) platform.",
+        "description": "Pioneered the optimized nano-fabrication of low loss photonic devices on the Thin Film Lithium Niobate (TFLN) platform.",
         "readMore": "",
         "image": "/assets/featured-projects/LNOI.webp",
         "jpg": "/assets/featured-projects/LNOI.jpeg"
@@ -27,8 +27,8 @@
         "year": "Jan 2025 - Dec 2025",
         "location": "University of Calgary, Canada",
         "tags": ["Quantum Optics", "Cryogenics", "SNSPD", "RF Electronics", "Python"],
-        "description": "Demonstrated a multiplexed quantum memory with simultaneously storage and on-demand recall of up to 60 qubits, achieving a record millisecond storage lifetime at telecom wavelengths",
-        "readMore": "",
+        "description": "Demonstrated a multiplexed quantum memory with simultaneously storage and on-demand recall of up to 60 qubits, achieving a record millisecond storage lifetime at telecom wavelengths.",
+        "readMore": "https://doi.org/10.48550/arXiv.2512.17181",
         "image": "/assets/featured-projects/ErYSO.webp",
         "jpg": "/assets/featured-projects/ErYSO.jpeg"
     },

@@ -4,7 +4,7 @@
         "title": "Quantum Approximate Optimization Algorithm ",
         "year": "Sep 2022 - Dec 2022",
         "tags": ["Pennylane", "Pulser", "Python"],
-        "description": "Reviewd and implemented the Quantum Approximate Optimization Algorithm (QAOA) for combinatorial optimization problems using quantum simulators.",
+        "description": "Reviewed and implemented the Quantum Approximate Optimization Algorithm (QAOA) for combinatorial optimization problems using quantum simulators.",
         "image": "/assets/other-projects/QAOA.webp",
         "jpg": ""
     },
