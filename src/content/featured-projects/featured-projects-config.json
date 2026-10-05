@@ -1,22 +1,33 @@
 [
     {
-        "id": "featured-project-ErLNOI",
-        "title": "On-chip Quantum Memory",
-        "year": "Jun 2024 - Mar 2026",
-        "location": "University of Calgary, Canada",
-        "tags": ["PIC", "Quantum Optics", "Cryogenics", "Python"],
-        "description": "Developed a cavity-enhanced quantum memory on a chip, utilizing Erbium-doped Thin Film Lithium Niobate for scalable quantum networks.",
+        "id": "featured-project-Luceda",
+        "title": "Photonics PDK",
+        "year": "Sep 2024 - Dec 2026",
+        "location": "Calgary, Canada",
+        "tags": ["PIC", "Python"],
+        "description": "Delivered a Si and SiN Process Development Kit in IPKISS with component models for a commercial photonics foundry",
         "readMore": "",
-        "image": "/assets/featured-projects/ErLN_QM.webp",
-        "jpg": "/assets/featured-projects/ErLN_QM.jpeg"
+        "image": "/assets/featured-projects/Luceda.webp",
+        "jpg": "/assets/featured-projects/Luceda.jpeg"
     },
     {
-        "id": "featured-project-LNOI",
-        "title": "LNOI Nanofabrication",
+        "id": "featured-project-ErLNOI",
+        "title": "On-chip Quantum Memory",
+        "year": "Jun 2024 - Dec 2026",
+        "location": "University of Calgary, Canada",
+        "tags": ["PIC", "Quantum Optics", "Cryogenics", "Python"],
+        "description": "Demonstrated a cavity-enhanced quantum memory on a chip, utilizing Erbium-doped Thin Film Lithium Niobate for scalable quantum networks.",
+        "readMore": "",
+        "image": "/assets/featured-projects/ErTFLN_QM.webp",
+        "jpg": "/assets/featured-projects/ErTFLN_QM.jpg"
+    },
+    {
+        "id": "featured-project-TFLN",
+        "title": "TFLN Nanofabrication",
         "year": "Jun 2024 - Mar 2026",
         "location": "University of Alberta, Canada",
         "tags": ["Electron Beam Lithography", "Photolithography", "Reactive Ion Etching", "FDTD Simulations", "Layout Design"],
-        "description": "Pioneered the optimized nano-fabrication of low loss photonic devices on the Thin Film Lithium Niobate (TFLN) platform.",
+        "description": "Developed an optimized nano-fabrication process flow for low loss photonic devices on the Thin Film Lithium Niobate (TFLN) platform.",
         "readMore": "",
         "image": "/assets/featured-projects/LNOI.webp",
         "jpg": "/assets/featured-projects/LNOI.jpeg"
@@ -27,10 +38,10 @@
         "year": "Jan 2025 - Dec 2025",
         "location": "University of Calgary, Canada",
         "tags": ["Quantum Optics", "Cryogenics", "SNSPD", "RF Electronics", "Python"],
-        "description": "Demonstrated a multiplexed quantum memory with simultaneously storage and on-demand recall of up to 60 qubits, achieving a record millisecond storage lifetime at telecom wavelengths.",
-        "readMore": "https://doi.org/10.48550/arXiv.2512.17181",
+        "description": "Demonstrated a multiplexed quantum memory with simultaneously storage and on-demand recall of up to 60 qubits, achieving a record millisecond storage at telecom wavelengths.",
+        "readMore": "https://doi.org/10.1103/6rns-8wj3",
         "image": "/assets/featured-projects/ErYSO.webp",
-        "jpg": "/assets/featured-projects/ErYSO.jpeg"
+        "jpg": "/assets/featured-projects/ErYSO.jpg"
     },
     {
         "id": "featured-project-SiP",
@@ -47,10 +58,10 @@
     {
         "id": "featured-project-MDI",
         "location": "University of Calgary, Canada",
-        "title": "MDI Quantum Key Distribution",
+        "title": "Quantum Key Distribution",
         "year": "Sep 2021 - Jun 2023",
         "tags": ["Quantum Optics", "RF Electronics", "FPGA", "SNSPD", "Python"],
-        "description": "Led a multi-disciplinary project to architect and build a measurement-device-independent quantum key distribution (MDI-QKD) prototype, leveraging time-bin encoding for commercialisation.",
+        "description": "Led a multi-disciplinary project to build a measurement-device-independent quantum key distribution (MDI-QKD) prototype, leveraging time-bin encoding for commercialisation.",
         "readMore": "https://doi.org/10.1109/IPC57732.2023.10360772",
         "image": "/assets/featured-projects/MDI.webp",
         "jpg": "/assets/featured-projects/MDI.jpeg"

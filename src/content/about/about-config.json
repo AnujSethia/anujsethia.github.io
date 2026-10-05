@@ -4,7 +4,7 @@
             "id": "edu-1",
             "school": "University of Calgary",
             "degree": "Doctor of Philosophy in Physics (Fastracked from M.Sc.) ",
-            "duration": "Aug 2021 - Aug 2026",
+            "duration": "Aug 2021 - Dec 2026",
             "content": []
         },
         {
@@ -16,26 +16,26 @@
         }
     ],
     "experiences": [
+                {
+            "id": "exp-3",
+            "company": "Luceda Photonics",
+            "position": "Junior Development Engineer",
+            "duration": "Sep 2026 - Dec 2026",
+            "description": ["Calgary, Canada"]
+        },
         {
-            "id": "exp-1",
+            "id": "exp-2",
             "company": "QNu Labs",
             "position": "Reseach Assistant",
             "duration": "Jun 2020 - Jul 2021",
             "description": ["Bangalore, India"]
         },
         {
-            "id": "exp-2",
+            "id": "exp-1",
             "company": "Zhejiang University",
             "position": "Resesrch Intern",
             "duration": "May 2019 - Aug 2019",
             "description": ["Hangzhou, China"]
-        },
-        {
-            "id": "exp-3",
-            "company": " ",
-            "position": " ",
-            "duration": "",
-            "description": []
         }
     ],
     "skills": [
@@ -76,37 +76,46 @@
     ],
     "achievements": [
         {
-            "id": "achieve-1",
-            "title": "Selected for the Evolve to Innovate program by University of Calgary (2026)",
+            "id": "achieve-9",
+            "title": "Awarded the Cannon Lachapelle Award in Entrepreneurial Thinking (2026)",
             "link": ""
         },
+        { 
+            "id": "achieve-8", 
+            "title": "Awarded Optics and Photonics Scholarship by SPIE for contributions to optics, photonics, or a related field. (2026)", 
+            "link": "https://www.spie.org/documents/Membership/Scholarships/2026%20Scholarship%20PRs/Anuj_Sethia_Final.pdf#:~:text=Sethia%20is%20a%20PhD%20candidate,under%20the%20supervision%20of%20Dr." },
         {
-            "id": "achieve-2",
-            "title": "MicroFAB Access Award by CMC Microsystems (2025)",
-            "link": ""
-        },
-                {
-            "id": "achieve-1",
-            "title": "Among the top ten finalist of the 3 Minute Thesis competition (2024)",
-            "link": " "
-        },
-        {
-            "id": "achieve-3",
-            "title": "Alberta Innovates Graduate Student Scholarship by Alberta Government (2023-2025)",
-            "link": ""
-        },
-        {
-            "id": "achieve-4",
-            "title": "Alberta Graduate Excellence Scholarship by Alberta Government (2023-2024)",
-            "link": ""
-        },
-        {
-            "id": "achieve-5",
-            "title": "Faculty of Graduate Studies Scholarship by University of Calgary (2023-2024)",
+            "id": "achieve-7",
+            "title": "Completed the Evolve to Innovate program by Hunter Hub, University of Calgary (2026)",
             "link": ""
         },
         {
             "id": "achieve-6",
+            "title": "Awarded the MicroFAB Access Award by CMC Microsystems (2025)",
+            "link": ""
+        },
+                {
+            "id": "achieve-5",
+            "title": "Among the top ten finalist of the 3 Minute Thesis competition (2024)",
+            "link": " "
+        },
+        {
+            "id": "achieve-4",
+            "title": "Alberta Innovates Graduate Student Scholarship by Alberta Government (2023-2025)",
+            "link": ""
+        },
+        {
+            "id": "achieve-3",
+            "title": "Alberta Graduate Excellence Scholarship by Alberta Government (2023-2024)",
+            "link": ""
+        },
+        {
+            "id": "achieve-2",
+            "title": "Faculty of Graduate Studies Scholarship by University of Calgary (2023-2024)",
+            "link": ""
+        },
+        {
+            "id": "achieve-1",
             "title": "Undergraduate Research Award by Indian Institute of Technology Bombay (2019)",
             "link": ""
         }
